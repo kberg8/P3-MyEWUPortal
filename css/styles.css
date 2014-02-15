@@ -1,3 +1,13 @@
+li {
+	font-family: 'Allerta', sans-serif;
+}
+
+h1, p {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1.5em;
+	color: #ff6600;
+}
+
 .orbit {
 	height: 1500px;
 	width: 1500px;
@@ -25,15 +35,3 @@ body {
 	background-color: #acdbce;
 }
 
-
-@font-face {
-    font-family: 'enigmaticbold';
-    src: url('EnigmaB_2-webfont.eot');
-    src: url('EnigmaB_2-webfont.eot?#iefix') format('embedded-opentype'),
-         url('EnigmaB_2-webfont.woff') format('woff'),
-         url('EnigmaB_2-webfont.ttf') format('truetype'),
-         url('EnigmaB_2-webfont.svg#enigmaticbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
