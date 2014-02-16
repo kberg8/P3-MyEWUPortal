@@ -26,6 +26,12 @@ h1, p {
 	text-align: center;
 }
 
+.photos img:hover,
+.photos p:hover {
+	opacity: .6;
+	-webkit-transform: scale(1.1);
+}
+
 .sub-nav {
 	margin: 80px auto;
 }
@@ -33,4 +39,5 @@ h1, p {
 body {
 	background-color: #acdbce;
 }
+
 
