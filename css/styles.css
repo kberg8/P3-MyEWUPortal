@@ -8,13 +8,12 @@ h1, p {
 	color: #ff6600;
 }
 
-.orbit {
-	height: 1500px;
-	width: 1500px;
+.orbit img {
+	height: 100%;
 }
 
 .off-canvas-wrap {
-	height: 50px;
+	height: 400px;
 }
 
 .photos img {
